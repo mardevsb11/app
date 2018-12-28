@@ -1,5 +1,0 @@
-#Kuis Fisika,com.arraypedia.fisika,https://news.pg.com/sites/pg.newshq.businesswire.com/files/imagecache/logo_listview_thumb/logo/image/PG_logo_dark_blue-thumb.png
-#Kuis Biologi,com.arraypedia.biologi,http://firebirdsql.org/file/about/firebird-logo-100.png
-#Kuis Matematika,com.arraypedia.matematika,https://www.hss.edu/images/nav/hss-logo-flat.gif
-#Kuis Berhadiah ini,com.arraypedia.berhadiah,https://www.hss.edu/images/nav/hss-logo-flat.gif
-#Kuis Berhadiah Lama,com.arraypedia.kuisberhadiah,https://www.hss.edu/images/nav/hss-logo-flat.gif
