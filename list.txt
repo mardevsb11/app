@@ -1,2 +1,2 @@
-#Fun Math Trivia,com.arraypedia.matematikas,http://1.bp.blogspot.com/-kDZxE80XgLk/XE7V5VDgnCI/AAAAAAAAAX0/lIq2iHRCnvYO5HtsGNboNRAbVE5wZLhHgCLcBGAs/s1600/icon_github.png
+#Fun Math Trivia,com.arraypedia.matematika,http://1.bp.blogspot.com/-kDZxE80XgLk/XE7V5VDgnCI/AAAAAAAAAX0/lIq2iHRCnvYO5HtsGNboNRAbVE5wZLhHgCLcBGAs/s1600/icon_github.png
 #Kuis Berhadiah,com.arraypedia.berhadiah,http://1.bp.blogspot.com/-40MHlXozzxA/XCZvDgiK7SI/AAAAAAAAAVc/h_-7Eg5nRv8pD6doH7tPL8L1fgjfoDawQCK4BGAYYCw/s1600/icon_list.png
