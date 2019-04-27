@@ -7,3 +7,6 @@
 #Thailook Wallpaper,com.arraypedia.thailookwallpapers,https://3.bp.blogspot.com/-o6vU9avK7TY/XIb5oQE2ErI/AAAAAAAAAtQ/84SLiD8hQmUakA2baabQj5jcrwLdV-5gACLcBGAs/s1600/ICON_GITHUB.png
 #Beautiful Colorful Flower,com.arraypedia.beautifulcolorfulflower,https://2.bp.blogspot.com/-EYsuc5tbfM8/XIcq_5obZ9I/AAAAAAAAAtc/6D-OtD_9YQo63oGFcu_jBSiLoJYcYsJGwCLcBGAs/s1600/ICON_GITHUB.png
 #Bass Fish Wallpaper,com.arraypedia.bassfish,https://3.bp.blogspot.com/-aVOTd_wuZHg/XMCx0HZWXPI/AAAAAAAAAuE/h88QxK4s2l8oTbcRPVfsLgJZ1MnOTtesgCLcBGAs/s1600/ICON_GITHUB.png
+#Moslem Wallpaper,com.arraypedia.moslem,https://1.bp.blogspot.com/-9U5OwRHaHws/XMSbA3wD0KI/AAAAAAAAAuQ/I3ehtGTfoQg5LAnBhsOZchexZM4Ssa8FACLcBGAs/s1600/ICON_GITHUB.png
+#Niqab Wallpaper,com.arraypedia.niqab,https://2.bp.blogspot.com/-KAAJaKisnP0/XMSblrHaEVI/AAAAAAAAAuY/3-24oRCfwW8v3pwCCB7k_Lp3bOf0eyE5ACLcBGAs/s1600/ICON_GITHUB.png
+#Bass Wallpaper,com.arraypedia.bass,https://4.bp.blogspot.com/-82rslDYfT6A/XMSb8vjZ-0I/AAAAAAAAAug/YHWIt87DP7YtMnsGs3AM2ie6tPpTMnrlgCLcBGAs/s1600/ICON_GITHUB.png
