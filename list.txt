@@ -11,3 +11,4 @@
 #Niqab Wallpaper,com.arraypedia.niqab,https://2.bp.blogspot.com/-KAAJaKisnP0/XMSblrHaEVI/AAAAAAAAAuY/3-24oRCfwW8v3pwCCB7k_Lp3bOf0eyE5ACLcBGAs/s1600/ICON_GITHUB.png
 #Bass Wallpaper,com.arraypedia.bass,https://4.bp.blogspot.com/-82rslDYfT6A/XMSb8vjZ-0I/AAAAAAAAAug/YHWIt87DP7YtMnsGs3AM2ie6tPpTMnrlgCLcBGAs/s1600/ICON_GITHUB.png
 #Graffiti wallpapers,com.arraypedia.graffiti,https://3.bp.blogspot.com/--IVwFJlq0jk/XMy68L1UJwI/AAAAAAAAAu0/Giyn6KEGUEgW2VzDSuasMHWI4pSkcRywgCLcBGAs/s1600/ICON_GITHUB.png
+#Muslim Dolls Wallpaper,com.arraypedia.muslimahdoll,https://2.bp.blogspot.com/-E1tGV9oxj6I/XOgKJAP7IgI/AAAAAAAAAvM/2mbdlhZtTng32doE1rv4o_ao6SgQm9vOgCK4BGAYYCw/s400/ICON_GITHUB.png
