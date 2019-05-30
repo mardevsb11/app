@@ -12,4 +12,5 @@
 #Bass Wallpaper,com.arraypedia.bass,https://4.bp.blogspot.com/-82rslDYfT6A/XMSb8vjZ-0I/AAAAAAAAAug/YHWIt87DP7YtMnsGs3AM2ie6tPpTMnrlgCLcBGAs/s1600/ICON_GITHUB.png
 #Graffiti wallpapers,com.arraypedia.graffiti,https://3.bp.blogspot.com/--IVwFJlq0jk/XMy68L1UJwI/AAAAAAAAAu0/Giyn6KEGUEgW2VzDSuasMHWI4pSkcRywgCLcBGAs/s1600/ICON_GITHUB.png
 #Muslim Dolls Wallpaper,com.arraypedia.muslimahdoll,https://2.bp.blogspot.com/-E1tGV9oxj6I/XOgKJAP7IgI/AAAAAAAAAvM/2mbdlhZtTng32doE1rv4o_ao6SgQm9vOgCK4BGAYYCw/s400/ICON_GITHUB.png
-#Tortoise Wallpaper 4K,com.arraypedia.tortoise,https://4.bp.blogspot.com/-n7aMcn4TdX8/XPANeqRnz9I/AAAAAAAAAvc/U8BX3Hg7dncP9aTn6SIeoCiQ_g2UvDHnACLcBGAs/s1600/ICON_GITHUB.png
+#Tortoise Wallpaper 4K,com.arraypedia.tortoise,https://1.bp.blogspot.com/-qxUbCFBdKQg/XPAbod7UwgI/AAAAAAAAAvo/D9fqkgW3DPgtjvS_gUNarNUSpK1U0498gCLcBGAs/s1600/ICON_GITHUB.png
+#Deep Sea Wallpaper,com.arraypedia.deepsea,https://4.bp.blogspot.com/-n7aMcn4TdX8/XPANeqRnz9I/AAAAAAAAAvc/U8BX3Hg7dncP9aTn6SIeoCiQ_g2UvDHnACLcBGAs/s1600/ICON_GITHUB.png
