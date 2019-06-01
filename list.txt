@@ -14,3 +14,4 @@
 #Muslim Dolls Wallpaper,com.arraypedia.muslimahdoll,https://2.bp.blogspot.com/-E1tGV9oxj6I/XOgKJAP7IgI/AAAAAAAAAvM/2mbdlhZtTng32doE1rv4o_ao6SgQm9vOgCK4BGAYYCw/s400/ICON_GITHUB.png
 #Tortoise Wallpaper 4K,com.arraypedia.tortoise,https://1.bp.blogspot.com/-qxUbCFBdKQg/XPAbod7UwgI/AAAAAAAAAvo/D9fqkgW3DPgtjvS_gUNarNUSpK1U0498gCLcBGAs/s1600/ICON_GITHUB.png
 #Deep Sea Wallpaper,com.arraypedia.deepsea,https://4.bp.blogspot.com/-n7aMcn4TdX8/XPANeqRnz9I/AAAAAAAAAvc/U8BX3Hg7dncP9aTn6SIeoCiQ_g2UvDHnACLcBGAs/s1600/ICON_GITHUB.png
+#Deep Sky Wallpaper,com.arraypedia.deepsky,https://2.bp.blogspot.com/-0wDj_tbefyE/XPLPPqAU4CI/AAAAAAAAAwA/3FVWDNgkUeMlfmby0fOT_c5LSajFsymigCLcBGAs/s1600/ICON_GITHUB.png
